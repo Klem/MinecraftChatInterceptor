@@ -1,0 +1,27 @@
+-------------KLEM'S---------------
+	MINECRAFT CHAT INTERCEPTOR
+			${version}
+---------------------------------	               
+GENERAL RANDOM ACRONYM LICENSE
+
+Coded By Klem (klem86@gmail.com) Due to functional need of HansSkulzer (goliwaug@yahoo.fr)
+Chat messages interceptor based on the interception of server-pushed JSON files used for the GUI updates
+of Minecraft's DynMap plugin.
+No "cracking" or security breach where employed during the development process.
+All the intercepted messages are publicly accessible via any internet browser.
+
+Made specifically for the following server 
+http://hfrcraft.deepdark.fr/dynmap
+
+compatibility with other servers is unknown and not really cared about
+
+-Have fun with it
+-Don't sell it
+-Let me know if you like it
+-Let me know if you want improvements
+-If you are a dev, check out the source, feedback is always appreciated
+-Thank you is always nice and it's still free
+-You can redistribute freely, by any mean, just keep this license within the distribution.
+-Again, don't make a freaking dime out of it or I'll sue your ass so hard you'll shit bricks.
+-Don't blame me if it suddenly stops working. I just reversed engineered 
+some of the whole server side stuff to make this work. If anything change I'm screwed.

@@ -1,0 +1,26 @@
+-------------KLEM'S---------------
+	MINECRAFT CHAT INTERCEPTOR
+			${version}
+---------------------------------	               
+
+---------------V1.3---------------
+-Externalized configuration
+-Added license and release notes
+-Added editable blacklisted users message filter
+-Added editable blacklisted words messages users
+-Manual settings for a few technical options
+-Final autosave on quit if needed
+-Filename for autosave is now <startdate>_<endate>.txt
+
+---------------V1.2---------------
+-Improved messages readability
+-Pause/resume message interception
+-Frontend debug output
+-Autosave on cache purge
+
+
+---------------V1.0---------------
+-Message interception
+-Message cache
+-Message display
+-Message Save
